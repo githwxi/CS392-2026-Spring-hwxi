@@ -1,0 +1,22 @@
+############################################################
+Name: Tanisha Jauhari
+Usrid: U90060708
+email: tjauhari@bu.edu
+############################################################
+Assign01:
+Total: yet to be graded
+Please put ALL your code
+for submission inside the MySolution directory.
+############################################################
+Assign02:
+Total: yet to be graded
+Please put ALL your code
+for submission inside the MySolution directory.
+And please fix issues.
+Assign02_03:
+>> Arrays.binarySearch(A, (int) sum);
+Using such a library method is not allowed (unless
+it is specified otherwise)
+############################################################
+Assign03:
+############################################################

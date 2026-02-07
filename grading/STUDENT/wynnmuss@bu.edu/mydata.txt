@@ -1,0 +1,24 @@
+############################################################
+Name: Wynn Musselman
+Usrid: U76035135
+email: wynnmuss@bu.edu
+############################################################
+Assign01:
+100/100: Good work!
+############################################################
+Assign02:
+Assign02_01: 10/10
+Assign02_02: 10/10
+Assign02_03: ??/20
+[added_indices] is of size O(n^2). So the following code
+is O(n^3): // n^3 = n^2 * n
+for(int i = 0; i < added_indices.length; i++){
+  for(int j = 0; j < A.length; j++){
+    if(added_indices[i] == A[j]) return true;
+  }
+}
+Please try to use binary search to solve this problem.
+Fix and submit for regrading.
+############################################################
+Assign03:
+############################################################
