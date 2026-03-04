@@ -62,7 +62,7 @@ mailx -c hwxi@bu.edu -r hwxi@bu.edu -s CS392X1-your-grades-so-far wang4936@bu.ed
 
 all:: \
 row12
-row13: ; \
+row12: ; \
 mailx -c hwxi@bu.edu -r hwxi@bu.edu -s CS392X1-your-grades-so-far wliu07@bu.edu < ./../STUDENT/wliu07@bu.edu/mydata.txt
 
 all:: \
