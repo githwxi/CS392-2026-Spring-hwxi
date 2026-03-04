@@ -7,11 +7,34 @@ Assign01:
 Total: yet to be graded
 Please put ALL your code
 for submission inside the MySolution directory.
+HX-2026-03-03:
+100/100: Good work!
 ############################################################
 Assign02:
 Total: yet to be graded
 Please put ALL your code
 for submission inside the MySolution directory.
+Assign02_01: 10/10
+Assign02_02: ??/10
+// What you implemented is not equivalent to the
+// original loop-base. For instance, there is no Arrays.copyOf
+// in the original one.
+Assign02_03: ??/20
+// HX: Not entirely correct.
+// If k = i, maybe A[k+1] = A[k] and you have A[k+1] = A[i]+A[j]
+>>	for(int i = 0; i < A.length - 1; i++){
+>>		for(int j = i + 1; j < A.length; j++){
+>>			int k = Assign02_02.indexOf(A, (A[i] + A[j]));
+>>			if(k != -1 && k != i) return true;
+>>		}
+>>	}
 ############################################################
 Assign03:
+HX-2026-03-03: No submission is found!
+############################################################
+Assign04:
+Assign04_01: 10/10 // Good!
+Assign04_02: 20/20 // Not a good implementation as it
+// creates a lot of intermediate strings that become garbage
+// once the function returns.
 ############################################################

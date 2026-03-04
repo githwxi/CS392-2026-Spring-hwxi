@@ -7,11 +7,31 @@ Assign01:
 Total: yet to be graded
 Please put ALL your code
 for submission inside the MySolution directory.
+HX-2026-02-11:
+Submitted code found in Code:
+Total: 100/100 // Good!
 ############################################################
 Assign02:
 Total: yet to be graded
 Please put ALL your code
 for submission inside the MySolution directory.
+HX-2026-02-11:
+Submitted code found in Code:
+Assign02_01: 10/10
+Assign02_02: 10/10
+Assign02_03: ??/20
+This does not seem right. What happens is the following case:
+A=[-3,-2,-1]? A may contain negative numbers.
+>> // Look for k > j so i, j, k are automatically distinct
+>> if (binarySearch(A, target, j + 1, n - 1) != -1) {
+>>   return true;
+>> }
 ############################################################
 Assign03:
+Assign03_01: 10/10
+Assign03_02: 10/10
+############################################################
+Assign04:
+Assign04_01: 10/10 // Good!
+Assign04_02: 20/20 // Good!
 ############################################################

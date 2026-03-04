@@ -10,6 +10,22 @@ Assign02:
 Total: yet to be graded
 Please put ALL your code
 for submission inside the MySolution directory.
+HX-2026-03-03:
+Assign02_01: 10/10
+Assign02_02: 10/10
+Assign02_03: 20/20
 ############################################################
 Assign03:
+Assign03_01: 10/10
+Assign03_02: 10/10
+############################################################
+Assign04:
+Assign04_01: ??/10
+// HX: Using for-loop disqualifies your solution
+>>Please solve the parenthesis/bracket/brace balance
+>>problem again. This time, your solution should not
+>>use a loop. Instread, you should use the higher-order
+>>method `forall` in FnStrn to solve it.
+Assign04_02: ??/20
+// HX: Using for-loops disqualifies your solution
 ############################################################

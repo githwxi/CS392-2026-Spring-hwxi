@@ -1,19 +1,16 @@
 ############################################################
-Name: Ziliang Wang
-Usrid: U47271531
-email: wang4936@bu.edu
+Name: Mohammed Alketbi
+email: alketbii@bu.edu
 ############################################################
 Assign01:
-Total: 100/100
-You should not changed the name of TestPayroll class to
-PayrollTest. I did not deduct any points this time, though.
+HX-2026-03-03:
+100/100 // Please
+put your solution in the MySolution directory next time
 ############################################################
 Assign02:
 Assign02_01: 10/10
 Assign02_02: 10/10
-Assign02_03: ??/20
-Your implementation is not tO(n^2).
-Please fix it and submit for regrading.
+Assign02_03: 20/20
 ############################################################
 Assign03:
 Assign03_01: 10/10

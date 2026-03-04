@@ -7,11 +7,31 @@ Assign01:
 Total: yet to be graded
 Please put ALL your code
 for submission inside the MySolution directory.
+HX-2026-03-03:
+100/100: // looks correct
+// HX: Some files are missing; code does not compile
 ############################################################
 Assign02:
 Total: yet to be graded
 Please put ALL your code
 for submission inside the MySolution directory.
+HX-2026-03-03:
+Assign02_01: 10/10
+Assign02_02: 10/10
+Assign02_03: 20/20
 ############################################################
 Assign03:
+Assign03_01: 10/10
+Assign03_02: ??/10
+// HX-2026-03-03:
+// Your FnList is not the same as the one in Library00
+// Please fix it.
+############################################################
+Assign04:
+Assign04_01: ??/10
+// HX-2026-03-03: your MyLibrary is empty
+Assign04_02: ??/20
+// HX-2026-03-03: your MyLibrary is empty
+// Also: the following code disqualifies:
+// final StringBuilder sb = new StringBuilder();
 ############################################################

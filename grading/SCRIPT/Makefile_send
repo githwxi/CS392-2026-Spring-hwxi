@@ -1,0 +1,74 @@
+########################################################################
+# CS392X1$ROWS:
+########################################################################
+
+row0: ; \
+mailx -c hwxi@bu.edu -r hwxi@bu.edu -s CS392X1-your-grades-so-far hwxi@bu.edu < ./../STUDENT/hwxi@bu.edu/mydata.txt
+
+all:: \
+row1
+row1: ; \
+mailx -c hwxi@bu.edu -r hwxi@bu.edu -s CS392X1-your-grades-so-far ceno@bu.edu < ./../STUDENT/ceno@bu.edu/mydata.txt
+
+all:: \
+row2
+row2: ; \
+mailx -c hwxi@bu.edu -r hwxi@bu.edu -s CS392X1-your-grades-so-far gorman@bu.edu < ./../STUDENT/gorman@bu.edu/mydata.txt
+
+all:: \
+row3
+row3: ; \
+mailx -c hwxi@bu.edu -r hwxi@bu.edu -s CS392X1-your-grades-so-far hjangell@bu.edu < ./../STUDENT/hjangell@bu.edu/mydata.txt
+
+all:: \
+row4
+row4: ; \
+mailx -c hwxi@bu.edu -r hwxi@bu.edu -s CS392X1-your-grades-so-far limingy@bu.edu < ./../STUDENT/limingy@bu.edu/mydata.txt
+
+all:: \
+row5
+row5: ; \
+mailx -c hwxi@bu.edu -r hwxi@bu.edu -s CS392X1-your-grades-so-far rkasrali@bu.edu < ./../STUDENT/rkasrali@bu.edu/mydata.txt
+
+all:: \
+row6
+row6: ; \
+mailx -c hwxi@bu.edu -r hwxi@bu.edu -s CS392X1-your-grades-so-far saralu@bu.edu < ./../STUDENT/saralu@bu.edu/mydata.txt
+
+all:: \
+row7
+row7: ; \
+mailx -c hwxi@bu.edu -r hwxi@bu.edu -s CS392X1-your-grades-so-far shervan@bu.edu < ./../STUDENT/shervan@bu.edu/mydata.txt
+
+all:: \
+row8
+row8: ; \
+mailx -c hwxi@bu.edu -r hwxi@bu.edu -s CS392X1-your-grades-so-far sjkim23@bu.edu < ./../STUDENT/sjkim23@bu.edu/mydata.txt
+
+all:: \
+row9
+row9: ; \
+mailx -c hwxi@bu.edu -r hwxi@bu.edu -s CS392X1-your-grades-so-far tjauhari@bu.edu < ./../STUDENT/tjauhari@bu.edu/mydata.txt
+
+all:: \
+row10
+row10: ; \
+mailx -c hwxi@bu.edu -r hwxi@bu.edu -s CS392X1-your-grades-so-far vpuzrina@bu.edu < ./../STUDENT/vpuzrina@bu.edu/mydata.txt
+
+all:: \
+row11
+row11: ; \
+mailx -c hwxi@bu.edu -r hwxi@bu.edu -s CS392X1-your-grades-so-far wang4936@bu.edu < ./../STUDENT/wang4936@bu.edu/mydata.txt
+
+all:: \
+row12
+row13: ; \
+mailx -c hwxi@bu.edu -r hwxi@bu.edu -s CS392X1-your-grades-so-far wliu07@bu.edu < ./../STUDENT/wliu07@bu.edu/mydata.txt
+
+all:: \
+row13
+row13: ; \
+mailx -c hwxi@bu.edu -r hwxi@bu.edu -s CS392X1-your-grades-so-far wynnmuss@bu.edu < ./../STUDENT/wynnmuss@bu.edu/mydata.txt
+
+########################################################################
+########################################################################

@@ -21,4 +21,12 @@ Please try to use binary search to solve this problem.
 Fix and submit for regrading.
 ############################################################
 Assign03:
+Assign03_01: ??/10
+// HX-2026-03-03:
+// incorrect. f91(200) = 190 (not 91)
+Assign03_02: 10/10 // Good!
+############################################################
+Assign04:
+Assign04_01: 10/10 // Good!
+Assign04_02: 20/20 // Good!
 ############################################################

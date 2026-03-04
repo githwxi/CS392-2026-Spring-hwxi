@@ -10,6 +10,20 @@ Assign02:
 Total: yet to be graded
 Please put ALL your code
 for submission inside the MySolution directory.
+HX-2026-03-03:
+Assign02_01: 10/10
+Assign02_02: 10/10
+Assign02_03: 20/20
 ############################################################
 Assign03:
+Assign03_01: 10/10
+Assign03_02: 10/10
+>> import Library00.FnList.FnList;
+// HX: Please use MyLibrary next time!
+############################################################
+Assign04:
+Assign04_01: 10/10 // Good!
+Assign04_02: 20/20 // Not a good implementation as it
+// creates a lot of intermediate strings that become garbage
+// once the function returns.
 ############################################################

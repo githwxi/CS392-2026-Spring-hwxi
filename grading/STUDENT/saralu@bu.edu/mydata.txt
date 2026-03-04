@@ -12,4 +12,16 @@ Assign02_02: 10/10
 Assign02_03: 20/20 // HX: edge cases are handled
 ############################################################
 Assign03:
+Assign03_01: 10/10
+Assign03_02: 10/10
+############################################################
+Assign04:
+Assign04_01: 10/10
+HX-2026-03-03:
+>> BracketVerifier pred = new BracketVerifier();
+A better style is to declare
+BracketVerifier as a *private* inner class
+Assign04_02: 20/20
+CharacterAdder and LnStrnConsumer should be private inner classes
+(declared in Assign04_02.java).
 ############################################################

@@ -7,6 +7,11 @@ Assign01:
 Total: yet to be graded
 Please put ALL your code
 for submission inside the MySolution directory.
+HX-2025-03-03:
+100/100 // Fixed: code moved into MySolution
+// Next time,
+// Don't put files inside MySolution/Code/.
+// Should just put the files inside MySolution/.
 ############################################################
 Assign02:
 Total: yet to be graded
@@ -17,6 +22,21 @@ Assign02_03:
 >> Arrays.binarySearch(A, (int) sum);
 Using such a library method is not allowed (unless
 it is specified otherwise)
+HX-2025-03-03:
+Assign02_01: 10/10
+Assign02_02: 10/10
+Assign02_03: 20/20 //
+// Should say a few words on the complexity of
+// your implementation. Why is it \tO(n^2)?
+// Next time,
+// Don't put files inside MySolution/Code/.
+// Should just put the files inside MySolution/.
 ############################################################
 Assign03:
+Assign03_01: 10/10
+Assign03_02: 10/10
+############################################################
+Assign04:
+Assign04_01: 10/10 // Good!
+Assign04_02: 20/20 // Good!
 ############################################################

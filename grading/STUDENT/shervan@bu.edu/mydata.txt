@@ -7,11 +7,39 @@ Assign01:
 Total: yet to be graded
 Please put ALL your code
 for submission inside the MySolution directory.
+HX-2026-03-03:
+100/100: Good work!
 ############################################################
 Assign02:
 Total: yet to be graded
 Please put ALL your code
 for submission inside the MySolution directory.
+HX-2026-03-03:
+Assign02_01: 10/10
+// You did not git-merge correctly:
+<<<<<<< HEAD
+	  // Please give your implementation here
+      int count=0;
+      int num=1;
+      while(num!=0){
+        num*=2;
+        count++;
+      }
+      System.out.println("The length of 'int' in bits is: " + count);
+=======
+	// Please give your implementation here
+>>>>>>> upstream/main
+Assign02_02: 10/10
+// You did not git-merge correctly: I cannot run your code
+Assign02_03: ??/20
+// You did not say anything about the time-complexity of
+// your implementation
 ############################################################
 Assign03:
+Assign03_01: 10/10
+Assign03_02: 10/10
+############################################################
+Assign04:
+Assign04_01: 10/10 // Good!
+Assign04_02: 20/20 // Good!
 ############################################################

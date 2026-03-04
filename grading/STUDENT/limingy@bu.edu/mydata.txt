@@ -7,11 +7,47 @@ Assign01:
 Total: yet to be graded
 Please put ALL your code
 for submission inside the MySolution directory.
+HX-2026-03-03:
+100/100: Good work!
 ############################################################
 Assign02:
 Total: yet to be graded
 Please put ALL your code
 for submission inside the MySolution directory.
+HX-2026-03-03:
+Assign02_01: 10/10
+Assign02_02: 10/10
+Assign02_03: ??/20
+HX: Not clear to me why your code solves the problem
+Please explain.
+	for (int i = A.length - 1; i >= 0; i--){//fix one value;
+		int start = 0;
+		int end = i - 1;
+		while (end > start){//use two pointer
+			int sign  = A[start]+A[end];
+			if(sign < A[i]){
+				start++;
+			}else if (sign > A[i]){
+				end--;
+			}else{
+				return true;
+			}
+		}
+	}
+
 ############################################################
 Assign03:
+Assign03_01: 10/10
+Assign03_02: 10/10
+############################################################
+Assign04:
+Assign04_01: ??/10
+You used for-loop
+>>Please solve the parenthesis/bracket/brace balance
+>>problem again. This time, your solution should not
+>>use a loop. Instread, you should use the higher-order
+>>method `forall` in FnStrn to solve it.
+Assign04_02: 20/20 // Not a good implementation as it
+// creates a lot of intermediate strings that become garbage
+// once the function returns.
 ############################################################
