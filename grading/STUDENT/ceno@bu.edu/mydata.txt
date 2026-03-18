@@ -35,3 +35,28 @@ Assign04_02: ??/20
 // Also: the following code disqualifies:
 // final StringBuilder sb = new StringBuilder();
 ############################################################
+Quiz01:
+HX-2025-03-16:
+Quiz01_00: 10/10
+Quiz01_01: 20/20
+Quiz01_02: ??/20
+HX-2025-03-16:
+Your solution is disqualified due to using external library:
+>> import java.util.HashMap;
+Quiz01_03: ??/30
+HX-2025-03-16:
+Your solution is disqualified due to using external library:
+>> import java.util.stream.Stream;
+Quiz01_04: ??/40
+HX-2025-03-16:
+Your code takes too long to finish test 1. I suspect that
+something is wrong. Parity sorting seems to work correctly.
+Quiz01_05: ??/30
+HX-2025-03-16:
+You misunderstood the question.
+>> // HX-2025-10-15:
+>> // This one is abstract, that is, not implemented
+[someRevStableSort] should always do reverse-stable sorting
+as long as someSort is a sorting function (which can be any
+given sorting function and does not have to be insertSort).
+############################################################

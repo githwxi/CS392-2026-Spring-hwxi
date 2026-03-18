@@ -51,3 +51,15 @@ Assign04_02: 20/20 // Not a good implementation as it
 // creates a lot of intermediate strings that become garbage
 // once the function returns.
 ############################################################
+Quiz01:
+HX-2025-03-16:
+Quiz01_00: 10/10
+Quiz01_01: 20/20
+Quiz01_02: 20/20
+HX-2025-03-16:
+Your solution seems unnecessarily complicated. It does
+handle the distinction requirement, though.
+Quiz01_03: 30/30 // Good work!
+Quiz01_04: 40/40 // Good work!
+Quiz01_05: 30/30 // Good work!
+############################################################

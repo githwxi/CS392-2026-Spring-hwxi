@@ -19,6 +19,8 @@ for(int i = 0; i < added_indices.length; i++){
 }
 Please try to use binary search to solve this problem.
 Fix and submit for regrading.
+HX-2026-03-15:
+Assign02_03: 20/20 // Problem fixed // See message
 ############################################################
 Assign03:
 Assign03_01: ??/10
@@ -29,4 +31,37 @@ Assign03_02: 10/10 // Good!
 Assign04:
 Assign04_01: 10/10 // Good!
 Assign04_02: 20/20 // Good!
+############################################################
+Quiz01:
+HX-2025-03-16:
+Quiz01_00: 10/10
+Quiz01_01: 20/20
+Quiz01_02: 20/20 // Okay
+HX: The code does handle the distinction requirement
+Quiz01_03: 30/30 // Good work!
+Quiz01_04: ??/40
+HX-2025-03-16:
+You did not do test2 (parity).
+Your testing code for test1 is incorrect:
+>> for(int i = n - 2; i >= 0; i -= 2){
+>>   bigList = new LnList<>(i, list);
+>>   bigList = new LnList<>(i + 1, list);
+>> }
+It should be
+for(int i = n - 2; i >= 0; i -= 2){
+  bigList = new LnList<>(i, bigList);
+  bigList = new LnList<>(i + 1, bigList);
+}
+After fixing it, your implementation takes a very long
+time. I had to abort my testing somewhere in the middle.
+I suspect that something is wrong with your implementation
+of insertion sort.
+Quiz01_05: ??/30
+HX-2025-03-16:
+You misunderstood the question.
+>> // HX-2025-10-15:
+>> // This one is abstract, that is, not implemented
+[someRevStableSort] should always do reverse-stable sorting
+as long as someSort is a sorting function (which can be any
+given sorting function and does not have to be insertSort).
 ############################################################

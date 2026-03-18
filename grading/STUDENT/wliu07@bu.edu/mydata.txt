@@ -29,3 +29,20 @@ Assign04_01: ??/10
 Assign04_02: ??/20
 // HX: Using for-loops disqualifies your solution
 ############################################################
+Quiz01:
+HX-2025-03-16:
+Quiz01_00: 10/10
+Quiz01_01: 20/20
+Quiz01_02: ??/20
+HX-2025-03-16: Your solution is O(n^3) but not \tO(n^2)
+Quiz01_03: 30/30 // Good work!
+Quiz01_04: ??/40 // Submitted code is unfinished.
+Quiz01_05: ??/30
+HX-2025-03-16:
+You misunderstood the question.
+>> // HX-2025-10-15:
+>> // This one is abstract, that is, not implemented
+[someRevStableSort] should always do reverse-stable sorting
+as long as someSort is a sorting function (which can be any
+given sorting function and does not have to be insertSort).
+############################################################

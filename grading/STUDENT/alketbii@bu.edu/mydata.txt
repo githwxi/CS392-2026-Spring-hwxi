@@ -20,3 +20,28 @@ Assign04:
 Assign04_01: 10/10 // Good!
 Assign04_02: 20/20 // Good!
 ############################################################
+Quiz01:
+HX-2025-03-16:
+Quiz01_00: 10/10
+Quiz01_01: 20/20
+Quiz01_02: ??/20
+HX-2025-03-16:
+Your solution is disqualified due to using external library:
+>> import java.util.HashMap;
+Quiz01_03: ??/30
+HX-2025-03-16:
+Your solution is disqualified due to using external library:
+>> Arrays.sort(res);
+Quiz01_04: ??/40
+HX-2025-03-16:
+>> // Test 1: nearly sorted list of 1M elements
+>> int n = 10000; // 10000 is not 1M (1000000)
+Quiz01_05: ??/30
+HX-2025-03-16:
+You misunderstood the question.
+>> // HX-2025-10-15:
+>> // This one is abstract, that is, not implemented
+[someRevStableSort] should always do reverse-stable sorting
+as long as someSort is a sorting function (which can be any
+given sorting function and does not have to be insertSort).
+############################################################

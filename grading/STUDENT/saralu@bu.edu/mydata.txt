@@ -25,3 +25,25 @@ Assign04_02: 20/20
 CharacterAdder and LnStrnConsumer should be private inner classes
 (declared in Assign04_02.java).
 ############################################################
+Quiz01:
+HX-2025-03-16:
+Quiz01_00: 10/10
+Quiz01_01: 20/20
+Quiz01_02: 20/20
+HX-2025-03-16: the distinction requirement is handled
+Quiz01_03: 30/30
+HX-2025-03-16: Unrolling bubble sort is done
+Quiz01_04: ??/40
+HX-2025-03-16: test1 and test2 are done and passed.
+How long does it take to sort a nearly sorted list of 1M
+elements? It took so long on my computer and I had to abort
+the test. Something seems wrong.
+Quiz01_05: ??/30
+HX-2025-03-16:
+You misunderstood the question.
+>> // HX-2025-10-15:
+>> // This one is abstract, that is, not implemented
+[someRevStableSort] should always do reverse-stable sorting
+as long as someSort is a sorting function (which can be any
+given sorting function and does not have to be insertSort).
+############################################################

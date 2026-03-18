@@ -27,3 +27,25 @@ Assign04_02: 20/20 // Not a good implementation as it
 // creates a lot of intermediate strings that become garbage
 // once the function returns.
 ############################################################
+Quiz01:
+HX-2025-03-16:
+Quiz01_00: ??/10
+Your MyLibrary is currently empty
+Quiz01_01: 20/20 // Okay.
+Quiz01_02: ??/20
+HX-2025-03-16:
+Your solution is disqualified due to using external library:
+>> import java.util.HashMap;
+Quiz01_03: 30/30 // Good work!
+Quiz01_04: ??/40
+HX-2025-03-16:
+Your code test too long to sort a nearly sorted list.
+I suspect it does not implement insertion sort correctly.
+Quiz01_05: ??/30
+HX-2025-03-16:
+>> // HX-2025-10-15:
+>> // This one is abstract, that is, not implemented
+[someRevStableSort] should always do reverse-stable sorting
+as long as someSort is a sorting function (which can be any
+given sorting function and does not have to be insertSort).
+############################################################

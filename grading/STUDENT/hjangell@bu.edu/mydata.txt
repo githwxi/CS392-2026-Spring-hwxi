@@ -38,3 +38,38 @@ Assign04_02: 20/20 // Not a good implementation as it
 // creates a lot of intermediate strings that become garbage
 // once the function returns.
 ############################################################
+Quiz01:
+HX-2025-03-16:
+Quiz01_00: 10/10
+Quiz01_01: ??/20
+HX-2025-03-16: Incorrect implementation.
+The following test should return 4. Please
+read the specification of the question carefully:
+// that returns the largest index i such that key >= A[i] if such i exists,
+>>System.out.println( FnA1szBinarySearch(str_testing, "f") ); // Should print -1
+Quiz01_02: ??/20
+You need to make sure that i != j holds:
+for(int i = 0; i < A.length; i++){
+  for(int j = 0; j < A.length; j++){
+    int k = indexOf(A, (A[i] * A[j]));
+    if(k != -1 && k != i && k != j) return true;
+  }
+}
+Quiz01_03: 30/30 // A bit too complicated
+Quiz01_04: ??/40
+HX-2025-03-16:
+Your code does not do test2 (partity)
+I tried your test1 but had to abort as it took too
+long. Seems that something is wrong with your implementation
+of insertion sort as test1 is expected to finish very quickly
+(e.g, < 5 seconds).
+Quiz01_05: ??/30
+HX-2025-03-16:
+You misunderstood the question.
+>> // HX-2025-10-15:
+>> // This one is abstract, that is, not implemented
+[someRevStableSort] should always do reverse-stable sorting
+as long as someSort is a sorting function (which can be any
+given sorting function and does not have to be insertSort).
+You only implement 'someSort' in your testing code.
+############################################################

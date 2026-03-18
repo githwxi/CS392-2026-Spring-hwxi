@@ -40,3 +40,32 @@ Assign04:
 Assign04_01: 10/10 // Good!
 Assign04_02: 20/20 // Good!
 ############################################################
+Quiz01:
+HX-2025-03-16:
+Quiz01_00: 10/10
+Quiz01_01: ??/20
+HX-2025-03-16: There is no implementation.
+Quiz01_02: 20/20
+HX-2025-03-16:
+The distinction requirement is handled
+There may be a minor issue, though. See below:
+>> else if (mid + 1 < A.length && A[mid+1] == target) return true;
+Is it possible that mid=i and mid+1=j?
+Quiz01_03: ??/30
+HX-2025-03-16:
+Your solution is disqualified as your bubbleSort
+does make use of recursion:
+>> MyLibrary.MySorting.MySortingArrays.bubbleSort(arr);
+Quiz01_04: ??/40
+HX-2025-03-16:
+Your code does not compile. There is no code for parity-sorting:
+>> // 2. Please do parity-sorting to test that LnListInsertSort is stable
+Quiz01_05: ??/30
+HX-2025-03-16:
+The submitted code is unfinished.
+>> // HX-2025-10-15:
+>> // This one is abstract, that is, not implemented
+[someRevStableSort] should always do reverse-stable sorting
+as long as someSort is a sorting function (which can be any
+given sorting function and does not have to be insertSort).
+############################################################
