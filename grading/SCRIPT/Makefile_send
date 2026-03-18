@@ -70,5 +70,10 @@ row13
 row13: ; \
 mailx -c hwxi@bu.edu -r hwxi@bu.edu -s CS392X1-your-grades-so-far wynnmuss@bu.edu < ./../STUDENT/wynnmuss@bu.edu/mydata.txt
 
+all:: \
+row14
+row14: ; \
+mailx -c hwxi@bu.edu -r hwxi@bu.edu -s CS392X1-your-grades-so-far alketbii@bu.edu < ./../STUDENT/alketbii@bu.edu/mydata.txt
+
 ########################################################################
 ########################################################################
