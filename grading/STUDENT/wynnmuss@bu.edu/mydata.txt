@@ -65,3 +65,54 @@ You misunderstood the question.
 as long as someSort is a sorting function (which can be any
 given sorting function and does not have to be insertSort).
 ############################################################
+Quiz01-fix:
+Quiz01_04: 40/40 // HX-2026-04-25: Fixed
+Quiz01_05: ??/30 // HX-2026-04-25: Still not fixed
+############################################################
+Assign05:
+Assign05_01: 30/30
+############################################################
+Assign06:
+Assign06_01: 30/30
+############################################################
+Assign07:
+Assign07_01: 40/40
+Assign07_02: 20/20
+############################################################
+Assign08:
+Assign08_01: 30/30
+Assign08_02: 50/50
+############################################################
+Assign09:
+Assign09_01: 50/50
+############################################################
+Assign10:
+Assign10_01: ??/50
+HX-2026-05-01:
+MyPQueueArray does not compile.
+What is implemented is not a heap-based priority queue
+############################################################
+Assign11:
+Assign11_01: 50/50
+############################################################
+Quiz02:
+Quiz02_00: 20/20
+HX-2026-05-01:
+Need more effort on building your own libary:
+heap-based priority queue, sorting, binary search tree, ...
+######
+Quiz02_01: ??/50
+HX-2026-05-01:
+The implemented algorithm does not correctly solve
+the problem. Should try some kind of 'dynamic programming'
+######
+Quiz02_03: 50/50
+Quiz02_05: 10/10 + 10 bonus + ??/20
+Your code does not generate a RBT; also, there is no
+explanation as to why the implementation actually yields
+a maximal height RBT of 1M nodes.
+Quiz02_06: 50/50
+Quiz02_02: ??/50 // No implementation
+Quiz02_04: ??/10 + ??/20 + ?? // HX: Quiz02_05 is chosen
+############################################################
+############################################################

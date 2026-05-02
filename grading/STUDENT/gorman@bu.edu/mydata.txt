@@ -58,3 +58,59 @@ You misunderstood the question.
 as long as someSort is a sorting function (which can be any
 given sorting function and does not have to be insertSort).
 ############################################################
+Quiz01-fix:
+Quiz01_02: 20/20 // HX-2026-04-20: Fixed
+Quiz01_04: 40/40 // HX-2026-04-20: Fixed
+Quiz01_05: ??/30 // HX-2026-04-20: Not Fixed
+############################################################
+Assign05:
+Assign05_01: 30/30
+############################################################
+Assign06:
+Assign06_01: 30/30
+############################################################
+Assign07:
+Assign07_01: 40/40
+Assign07_02: 20/20
+############################################################
+Assign08:
+Assign08_01: 30/30
+Assign08_02: 50/50
+HX: This is not correct.
+public V search$exn(String key) {
+  return search$opt(key);
+}
+Note that search$exn should raise an exception
+############################################################
+Assign09:
+Assign09_01: 50/50
+HX: It is not 'Quiz09_01'; should be 'Assign09_01'
+############################################################
+Assign10:
+Assign10_01: 50/50
+############################################################
+Assign11:
+Assign11_01: ??/50
+HX-2026-05-01: No submission
+############################################################
+Quiz02:
+Quiz02_00: 20/20 // Good work!
+Quiz02_01: 50/50
+Quiz02_03: 50/50
+Quiz02_04: 10/10 + 10 bonus + ??/20
+(*
+HX-2026-05-01:
+for genAVLBST(), the generated tree is unlikely to be
+of 1M nodes exactly.
+*)
+Quiz02_06: 50/50
+Quiz02_02: ??/50 // Your solution uses loops
+(
+HX-2026-05-01:
+Quiz02_02 is the most challenging question of this class.
+No loops are allowed (as loops are just a special form of
+recursion.
+)
+Quiz02_05: ??/10 + ??/20 + ?? // HX: Quiz02_04 is chosen
+############################################################
+############################################################

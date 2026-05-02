@@ -14,6 +14,10 @@ Please put ALL your code
 for submission inside the MySolution directory.
 ############################################################
 Assign03:
+Assign03_01: 10/10
+Assign03_02: 10/10
+Please put ALL your code
+for submission inside the MySolution directory.
 ############################################################
 Quiz01:
 HX-2025-03-16:
@@ -39,4 +43,28 @@ You misunderstood the question.
 [someRevStableSort] should always do reverse-stable sorting
 as long as someSort is a sorting function (which can be any
 given sorting function and does not have to be insertSort).
+############################################################
+Quiz01-fix:
+I cannot find your fixes for Quiz01.
+############################################################
+Assign04:
+Assign04_01: not implemented // HX-2026-04-09
+Assign04_02: not implemented // HX-2026-04-09
+############################################################
+Assign05:
+Assign05_01: not implemented // HX-2026-04-09
+############################################################
+Assign07: HX-2026-05-01: not graded yet
+############################################################
+Assign08: HX-2026-05-01: not graded yet
+############################################################
+Assign09: 
+Assign09_01: 50/50
+############################################################
+Assign10: HX-2026-05-01: no submission found
+############################################################
+Assign11: HX-2026-05-01: no submission found
+############################################################
+Quiz02: // HX-2026-05-01: no submission found
+############################################################
 ############################################################

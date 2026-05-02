@@ -45,3 +45,68 @@ You misunderstood the question.
 as long as someSort is a sorting function (which can be any
 given sorting function and does not have to be insertSort).
 ############################################################
+HX-2026-05-01: I will fix the scores for Quiz01 later!!!
+############################################################
+Quiz01_02: ??/20 // No points as your solution is O(n^3)
+Quiz01_03: ??/30 // No points: import java.lang.reflect.Array;
+Quiz01_04: ??/30 // Where is your testing code?
+Quiz01_05: ??/30 // Not fixed // HX-2026-04-25
+############################################################
+HX-2026-04-24:
+Please make sure that your submitted code should be in
+the MySolution directory. Please do NOT modify any code
+in the Code directory, which is given to you and should be
+not changed at all.
+############################################################
+Assign05:
+Assign05_01: 30/30
+############################################################
+Assign06:
+Assign06_01: 30/30
+############################################################
+Assign07:
+Assign07_01: 40/40
+Assign07_02: 20/20
+############################################################
+Assign08:
+Assign08_01: 30/30
+Assign08_02: 50/50
+############################################################
+Assign09:
+Assign09_01: 50/50
+############################################################
+Assign10:
+Assign10_01: 50/50
+############################################################
+Assign11:
+Assign11_01: 50/50
+############################################################
+Quiz02:
+HX-2026-05-01: Submitted after deadline.
+The following scores are not yet adjusted
+based on late submission penalty!
+Quiz02_00: 20/20 // Good!
+Quiz02_01: 50/50 // Uses dynamic programming
+Quiz02_03: 50/50
+Quiz02_05: 10/10 + 10 bonus + ??/20
+(
+HX: for 20 bonus points, I expect a solution that
+makes proper use of the exception mechanism in Java
+)
+Your handling of genRedBLackBST() is incorrect.
+The problem is more interesting. For instance,
+if you have three levels, you want Red, Black, Red.
+More importantly, you did not argue why your implementation
+is correct. Your did it based on your intuition, which may
+be incorrect.
+Quiz02_06: 50/50
+Quiz02_02: ??/50 // Your solution uses loops
+(
+HX-2026-05-01:
+Quiz02_02 is the most challenging question of this class.
+No loops are allowed (as loops are just a special form of
+recursion.
+)
+Quiz02_04: ??/10 + ??/20 + ?? // HX: Quiz02_05 is chosen
+############################################################
+############################################################

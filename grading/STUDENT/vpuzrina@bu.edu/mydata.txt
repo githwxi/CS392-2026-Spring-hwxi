@@ -49,3 +49,53 @@ HX-2025-03-16:
 as long as someSort is a sorting function (which can be any
 given sorting function and does not have to be insertSort).
 ############################################################
+Quiz01-fix:
+Quiz01_00: ??/10:
+Have your created MyLibrary? Do you have implemented
+libraries in your MyLibrary?
+Quiz01_02: ??/20 // HX-2025-04-25: no fix
+Quiz01_04: ??/40 // HX-2025-04-25: Does it work?
+Quiz01_05: ??/30 // HX-2025-04-25: Still not fixed.
+HX-2026-04-25:
+It seems that you did not really take the opportunity to
+fix your Quiz01 solutions.
+############################################################
+Assign05:
+Assign05_01: 30/30
+############################################################
+Assign06:
+Assign06_01: ??/30
+HX-2026-04-50:
+No testing code; no handling of equals.
+############################################################
+Assign07: No submission (HX-2026-04-25)
+############################################################
+Assign08: No submission (HX-2026-04-25)
+############################################################
+Assign09:
+Assign09_01: 50/50
+HX: It is not 'Quiz09_01'; should be 'Assign09_01'
+############################################################
+Assign10:
+Assign10_01: 50/50
+############################################################
+Assign11:
+Assign11_01: 50/50
+############################################################
+Quiz02:
+Quiz02_00: 20/20 // Good work!
+Quiz02_01: 50/50
+Quiz02_03: 50/50
+Quiz02_04: 10/10 + 10 bonus + 20/20 
+Quiz02_06: 50/50
+Quiz02_02: ??/50 // Your solution uses loops
+(
+HX-2026-05-01:
+Quiz02_02 is the most challenging question of this class.
+No loops are allowed (as loops are just a special form of
+recursion.
+)
+Quiz02_05: ??/10 + ??/20 + ?? // HX: Quiz02_04 is chosen
+############################################################
+HX-2026-05-01: Assign07 and Assign08 yet to be graded
+############################################################

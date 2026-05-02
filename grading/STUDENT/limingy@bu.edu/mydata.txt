@@ -34,7 +34,7 @@ Please explain.
 			}
 		}
 	}
-
+Assign02_03: 20/20 // HX-2026-04-27: fixed
 ############################################################
 Assign03:
 Assign03_01: 10/10
@@ -50,6 +50,7 @@ You used for-loop
 Assign04_02: 20/20 // Not a good implementation as it
 // creates a lot of intermediate strings that become garbage
 // once the function returns.
+Assign04_01: 10/10 // HX-2026-04-27: fixed
 ############################################################
 Quiz01:
 HX-2025-03-16:
@@ -62,4 +63,48 @@ handle the distinction requirement, though.
 Quiz01_03: 30/30 // Good work!
 Quiz01_04: 40/40 // Good work!
 Quiz01_05: 30/30 // Good work!
+############################################################
+Assign05:
+Assign05_01: 30/30
+############################################################
+Assign06:
+Assign06_01: 30/30
+############################################################
+Assign07:
+Assign07_01: 40/40
+Assign07_02: 20/20
+############################################################
+Assign08:
+Assign08_01: 30/30
+Assign08_02: 50/50
+############################################################
+Assign09:
+Assign09_01: 50/50
+############################################################
+Assign10:
+Assign10_01: 50/50
+############################################################
+Assign11:
+Assign11_01: 50/50
+HX: It is not 'Quiz11_01'; should be 'Assign11_01'
+############################################################
+Quiz02:
+Quiz02_00: 20/20 // Good work!
+Quiz02_01: 50/50
+Quiz02_03: 50/50
+Quiz02_04: 10/10 + 10 bonus + 20/20 
+(
+HX: for 20 bonus points, I expect a solution that
+makes proper use of the exception mechanism in Java
+)
+Quiz02_06: 50/50
+Quiz02_02: ??/50 // Your solution uses loops
+(
+HX-2026-05-01:
+Quiz02_02 is the most challenging question of this class.
+No loops are allowed (as loops are just a special form of
+recursion.
+)
+Quiz02_05: ??/10 + ??/20 + ?? // HX: Quiz02_04 is chosen
+############################################################
 ############################################################
