@@ -26,6 +26,7 @@ Assign03_02: ??/10
 // HX-2026-03-03:
 // Your FnList is not the same as the one in Library00
 // Please fix it.
+Assign03_02: 10/10 // HX-2026-05-03
 ############################################################
 Assign04:
 Assign04_01: ??/10
@@ -34,6 +35,8 @@ Assign04_02: ??/20
 // HX-2026-03-03: your MyLibrary is empty
 // Also: the following code disqualifies:
 // final StringBuilder sb = new StringBuilder();
+Assign04_01: 10/10 // HX-2026-05-03
+Assign04_02: 20/20 // HX-2026-05-03
 ############################################################
 Quiz01:
 HX-2025-03-16:

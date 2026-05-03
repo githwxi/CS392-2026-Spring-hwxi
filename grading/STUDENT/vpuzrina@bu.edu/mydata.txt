@@ -59,6 +59,17 @@ Quiz01_05: ??/30 // HX-2025-04-25: Still not fixed.
 HX-2026-04-25:
 It seems that you did not really take the opportunity to
 fix your Quiz01 solutions.
+HX-2026-05-01:
+Quiz01_00: 10/10 // HX-2025-05-01: fixed
+Quiz01_04: 40/40 // HX-2025-05-01: fixed
+Quiz01_05: 30/30 // HX-2025-05-01: fixed
+Quiz01_02: ??/20 // HX-2025-05-01: not fixed
+Your code does not handle the requirement for distinct
+indices.
+Quiz01_01: ??/20 // Okay.
+// I re-checked this one. Your code does meet the
+// following requirement:
+// returns the largest index i such that key >= A[i] if such i exists,
 ############################################################
 Assign05:
 Assign05_01: 30/30
